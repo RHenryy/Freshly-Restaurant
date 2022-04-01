@@ -1,2 +1,2 @@
 # Freshly Restaurant
- Site statique de restaurant
+ Site vitrine d'un restaurant 
