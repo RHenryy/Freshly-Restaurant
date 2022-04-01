@@ -23,7 +23,7 @@
         </div>
         <nav>
             <ul>
-                <li><a <?php if (basename($_SERVER['REQUEST_URI']) == "home.php" || basename($_SERVER['REQUEST_URI']) == "8-Restaurant") {
+                <li><a <?php if (basename($_SERVER['REQUEST_URI']) == "home.php") {
                             echo "class='active'";
                         } ?> href="home.php">Home</a></li>
                 <li><a <?php if (basename($_SERVER['REQUEST_URI']) == "about.php") {
